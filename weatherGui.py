@@ -14,6 +14,7 @@ def getinfo():
     label3.pack()
 
 
+print("hii")
 
 canvas=Tk()
 canvas.title("Weather Forecasting")
